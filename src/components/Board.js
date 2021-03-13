@@ -14,8 +14,8 @@ export const Board = ({tiles, checkForClicked}) => {
   }
 
   return (
-    <div className="board">
+    <section className="board">
       {appendTiles()}
-    </div>
+    </section>
   )
 }

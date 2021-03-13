@@ -19,6 +19,7 @@ const App = () => {
 
   const resetGame = () => {
     setBestScore(score);
+    setClickedTiles([]);
     setScore(0);
   }
 
@@ -50,15 +51,18 @@ const App = () => {
   }
 
   return (
-    <div className="App">
+    <section className="App">
+      {(!isWon && !isLost) &&
       <Header 
         score={score}
         bestScore={bestScore}
-      />
+      />}
+      {(!isWon && !isLost) &&
       <Board 
         tiles={tiles}
         checkForClicked={checkForClicked}
-      />
+      />}
+      
       {isWon && 
       <WinningScreen 
         setIsWon={setIsWon} 
@@ -67,7 +71,7 @@ const App = () => {
       <LosingScreen
         setIsLost={setIsLost}
         resetGame={resetGame}/>}
-    </div>
+    </section>
   );
 }
 
