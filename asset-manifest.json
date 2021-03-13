@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Memory-Project/static/css/main.70518a4f.chunk.css",
-    "main.js": "/Memory-Project/static/js/main.aed0685f.chunk.js",
-    "main.js.map": "/Memory-Project/static/js/main.aed0685f.chunk.js.map",
+    "main.css": "/Memory-Project/static/css/main.0e704abb.chunk.css",
+    "main.js": "/Memory-Project/static/js/main.3d49e2d6.chunk.js",
+    "main.js.map": "/Memory-Project/static/js/main.3d49e2d6.chunk.js.map",
     "runtime-main.js": "/Memory-Project/static/js/runtime-main.38b2904c.js",
     "runtime-main.js.map": "/Memory-Project/static/js/runtime-main.38b2904c.js.map",
     "static/js/2.38a0858a.chunk.js": "/Memory-Project/static/js/2.38a0858a.chunk.js",
     "static/js/2.38a0858a.chunk.js.map": "/Memory-Project/static/js/2.38a0858a.chunk.js.map",
     "index.html": "/Memory-Project/index.html",
-    "static/css/main.70518a4f.chunk.css.map": "/Memory-Project/static/css/main.70518a4f.chunk.css.map",
+    "static/css/main.0e704abb.chunk.css.map": "/Memory-Project/static/css/main.0e704abb.chunk.css.map",
     "static/js/2.38a0858a.chunk.js.LICENSE.txt": "/Memory-Project/static/js/2.38a0858a.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/Memory-Project/static/media/zuko.1b4fe753.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.38b2904c.js",
     "static/js/2.38a0858a.chunk.js",
-    "static/css/main.70518a4f.chunk.css",
-    "static/js/main.aed0685f.chunk.js"
+    "static/css/main.0e704abb.chunk.css",
+    "static/js/main.3d49e2d6.chunk.js"
   ]
 }
